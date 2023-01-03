@@ -199,7 +199,7 @@ CampaignInfo[] public campaignInfo;
 
 <div class="h-full m-auto">
 <div class="h-3/4 flex">
-<img src="images/verify.png" alt="" class="h-full">
+<img src="/images/verify.png" alt="" class="h-full">
 <div>
 
 #### Using asymmetric encryption
@@ -237,7 +237,7 @@ CampaignInfo[] public campaignInfo;
 # Merkle tree
 
 <div class="grid grid-cols-2 gap-x-4 py-4">
-<img src="images/merkle-tree.png" alt="" class="h-full">
+<img src="/images/merkle-tree.png" alt="" class="h-full">
 <div>
 <div v-click>
 
@@ -261,7 +261,7 @@ keccak("Transfer(address,address,uint256)") = "ddf252ad1be2c89b69c2b068fc378daa9
 # Merkle Proof
 
 <div >
-<img src="images/proof.png" alt="" class="h-3/4">
+<img src="/images/proof.png" alt="" class="h-3/4">
 <div v-click class="pt-8">
 
 **Merkle Proof** is used to check whether the input data belongs to the Merkle Tree or not without having to reveal all the data that make up the Merkle Tree.
@@ -293,7 +293,7 @@ keccak("Transfer(address,address,uint256)") = "ddf252ad1be2c89b69c2b068fc378daa9
 # 
 
 <div class="grid grid-cols-2 gap-x-4 py-4">
-<img src="images/linus.png" alt="" class="h-full">
+<img src="/images/linus.png" alt="" class="h-full">
 <div>
 <div v-click>
 
